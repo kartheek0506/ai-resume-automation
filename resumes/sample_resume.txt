@@ -1,0 +1,4 @@
+Skills: Python, Machine Learning, Pandas
+Experience: AI Internship
+Projects: Resume Automation System, Chatbot
+Education: B.Tech
